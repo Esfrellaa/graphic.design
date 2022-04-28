@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+           html {
+      background-color:#440011;
+        background-image:
+        url(https://static8.depositphotos.com/1323882/798/i/600/depositphotos_7986586-stock-photo-destruction-of-a-white-brick.jpg);
+    }
+ p { 
+     color: pink;
+       font-size: 60px;
+    font-family: "Centaur";
+    }
+       h1 { 
+           text-align: center;
+            background-color: white;
+     color: black;
+       font-size: 60px;
+    font-family:"Comic Sans MS";
+    }
+       
+    </style>
+  </head>
+<body>
+<h1>  Графический дизайнер </h1>
+<p> специалист, который создает рекламные баннеры, мерч, фирменный стиль компании и упаковку продуктов. </p>
+  <p><img src="https://vuzopedia.ru/storage/app/uploads/public/5f5/db5/d30/5f5db5d302487988252982.jpg"></p>
+ <p><img width="300" src="https://vuzopedia.ru/storage/app/uploads/public/5f5/db5/d30/5f5db5d302487988252982.jpg"></p>
+  <ul>
+   <li>sdvfghsv</li>
+    <li>vhvjhfdbvhj</li>
+    <li>mljjn</li>
+    </ul>
+  <p><font color=""#FF0000> Текст</font></p>
+    </body>
+</html>
