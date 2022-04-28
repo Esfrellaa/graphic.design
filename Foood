@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+ p { 
+     color: blue;
+       font-size: 60px;
+    font-family: "Comic Sans MS";
+    }
+       h1 { 
+     color: red;
+       font-size: 60px;
+    font-family:"Comic Sans MS";
+    }
+    </style>
+  </head>
+<body>
+<h1>  Токарева Влада </h1>
+<p> Hello, world! </p>
+  <p><img src="https://magazine.skyeng.ru/wp-content/uploads/2019/03/shutterstock_745196731.jpg"></p>
+  <p> Пример <b>текста</b> и <i>какой-то</i> <s>непонятый</s> <u>текст</u> про что-то </p>
+ <p><img width="300" src="котик.jpg"></p>
+  <table border="1">
+    <tr>
+      <td><b>фио</b></td>
+      <td><b>класс</b></td>
+    </tr>
+     <tr>
+      <td>тванов и б </td>
+      <td>11</td>
+    </tr>
+      <tr>
+      <td>Токарева вд </td>
+      <td>11</td>
+    </tr>
+</table>
+  <ul>
+   <li>sdvfghsv</li>
+    <li>vhvjhfdbvhj</li>
+    <li>mljjn</li>
+    </ul>
+  <p><font color=""#FF0000> Текст</font></p>
+    </body>
+</html>
